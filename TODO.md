@@ -6,7 +6,6 @@ Development backlog for the Larry Murphy Website.
 
 ## In Progress
 
-- [ ] Add and commit the initial documentation files
 - [ ] Review the current repository structure
 - [ ] Replace documentation placeholders with verified repository and deployment details
 
@@ -81,6 +80,7 @@ These items should be reprioritized after the current site is reviewed.
 - [x] Configure Git on the first development computer
 - [x] Configure Git on the second development computer
 - [x] Establish a working pull/commit/push workflow across both computers
+- [x] Add and commit the initial documentation files
 
 ## Task Management Rules
 
